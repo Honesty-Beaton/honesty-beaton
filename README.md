@@ -1,3 +1,7 @@
+✨ Hello, I'm Honesty!
+🌱 I am a Computer Science Major @ FHSU
+🪴I'm currently learning all things tech related!
+☁ It's nice to meet you 
 ## Hi there 👋
 
 <!--
