@@ -1,8 +1,7 @@
-✨ Hello, I'm Honesty!
-🌱 I am a Computer Science Major @ FHSU
-🪴I'm currently learning all things tech related!
+## ✨ Hello, I'm Honesty! ✨ <br>
+🌱 I'm a Computer Science Major @ FHSU <br>
+🪴I'm currently learning all things tech related! <br>
 ☁ It's nice to meet you 
-## Hi there 👋
 
 <!--
 **Honesty-Beaton/honesty-beaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
