@@ -1,5 +1,6 @@
 ## ✨ Hello, I'm Honesty! ✨ <br>
 🌱 I'm a Computer Science Major @ FHSU <br>
+⚡ Most of my older projects can be found on [Replit](https://replit.com/@HonestyBeaton1)! <br>
 🪴I'm currently learning all things tech related! <br>
 ☁ It's nice to meet you 
 
